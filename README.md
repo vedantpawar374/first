@@ -1,2 +1,3 @@
 # first
-this in my fist repository
+this in my first repository
+in github
